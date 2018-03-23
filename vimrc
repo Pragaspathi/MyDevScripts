@@ -1,3 +1,9 @@
+  =====================================================================================
+  " Steps to install Vundle plugin for vim:
+  " 1. git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  " 2. Copy the below vimrc script and o your ~/.vimrc.
+  " 3. Launch vim and run :PluginInstall   
+  =====================================================================================
   1 set nocompatible
   2 set number
   3 set updatetime=90
