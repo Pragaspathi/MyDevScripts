@@ -43,4 +43,4 @@
  37 " :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
  38 "
  39 " see :h vundle for more details or wiki for FAQ
- 40 " Put your non-Plugin stuff after this line
+ 40 " :Put your non-Plugin stuff after this line
